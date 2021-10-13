@@ -10,6 +10,7 @@ setup(
     author_email="",
     description=DESCRIPTION,
     long_description=open('README.md').read(),
+    url="<github repository url>",
     packages=find_packages(),
     install_requires=[]
 )
